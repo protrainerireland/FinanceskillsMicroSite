@@ -10,59 +10,11 @@
             "id": "banner", 
             "link": "no", 
             "type": "banner", 
-            "title": "JavaScript Training Courses Ireland", 
-            "subtitle": "Contact Us for all your JavaScript training requirements", 
+            "title": "Facilitation Skills Training Courses Ireland", 
+            "subtitle": "Contact us for all your Facilitation Skills training requirements", 
             "background": "img/ground@-min.png",
             "image": "svg/onlineclass.svg"
-        }, 
-        {
-            "id": "services", 
-            "link": "/#services", 
-            "text": "Services", 
-            "title": "Services", 
-            "type": "grid", 
-            "items":[
-                {
-                    "title": "Landing Page Development", 
-                    "text": "lorem ipsum", 
-                    "image": "/svg/Design collaboration.svg", 
-                    "link": "" 
-                }, 
-                {
-                    "title": "Online Branding", 
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
-                    "image": "/svg/branding.svg", 
-                    "link": ""
-                }, 
-                {
-                    "title": "Google Ads", 
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
-                    "image": "/svg/ads.svg", 
-                    "link": ""
-                }, 
-                {
-                    "title": "PPC", 
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                    "image": "/svg/undraw_Savings_dwkw.svg", 
-                    "link": ""
-                }, 
-                {
-                    "title": "Social Media",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
-                    "image": "/svg/Social dilemma.svg", 
-                    "link": ""
-                }, 
-                {
-                    "title": "SEO", 
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
-                    "image": "/svg/Code Version Control.svg"
-                }
-            ], 
-            "animation": {
-                "offset": 200
-            }
-            
-        },
+        },   
         {
             "id": "keywordtext",
             "link": "/#keywordtext", 
@@ -72,49 +24,24 @@
             "image": "/svg/Code Version Control.svg", 
             "imagePosition": "right",
             "content":{
-                "title": "hello"
+                "title": "The language of business...",
+                "text1": "Finance is the language of business and is a simple skill for non-financial managers to learn. Understanding how finance works in business is a core skill for all levels of management. Yet, there is more time wasting, misunderstandings and miscommunications around this critical area than any other business discipline.",
+                "text2": "Financial literacy is a core skill which radically improves effectiveness in all aspects of management: collaborating with others, making smart decisions, communicating with accountants and seeing the “big picture” at meetings."
+
             }
         },
         {
-            "id": "about",
-            "link": "/#about", 
-            "text": "About", 
-            "title": "About", 
-            "type": "listwithimage", 
+            "id": "summary",
+            "link": "/#summary", 
+            "text": "Why Attend?", 
+            "title": "Why Attend?", 
+            "type": "summary",
+            "image": "", 
+            "imagePosition": "right",
             "content":{
-                "title": "Odio sed id eos et laboriosam consequatur eos earum soluta.", 
-                "list":[
-                    "Sint aliquam consequatur ex ex labore.", 
-                    "Duis aute irure dolor in reprehenderit in voluptate velit.", 
-                    "Aspernatur consectetur omnis numquam quaerat.", 
-                    "Et vel ut quidem alias veritatis repudiandae ut fugit.", 
-                    "Fugit ut maxime incidunt accusantium totam repellendus eum error.", 
-                    "Ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                ], 
-                "image": "svg/undraw_mobile_marketing.svg"
-            }
-        }, 
-        {
-            "id": "testimonials", 
-            "link": "/#testimonials", 
-            "text": "Testimonials", 
-            "type": "quotes", 
-            "content": {
-                "title": "Testimonials", 
-                "quotes":[
-                    {
-                        "name": "Carol", 
-                        "jobtitle": "CEO at DIN", 
-                        "image": "/img/testimonials/carol.png", 
-                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
-                    }, 
-                    {
-                        "name": "Fred", 
-                        "jobtitle": "Co-founder at ArtSpace", 
-                        "image": "/img/testimonials/fred.JPEG", 
-                        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
+                "title": "Why attend one of our Facilitation Skills courses?",
+                "text1": "<a href=/courses>Our courses</a> remove the jargon of accountancy. We use the most learner-friendly techniques, to create an effective and enjoyable learning environment. Where necessary, we provide dedicated software applications which participants take back to their workplace. This guarantees that they can implement the learning and techniques in the “real world”.",
+                "text2": "Our flexible, active-learning programme is the quickest and most enjoyable way for non-financial managers to speak the language and use the concepts. To perform effectively, managers need a clear visibility of how their decisions effect profit and cash flow. For many, production of budgets and financial projections is also vital."
             }
         }
     ] 
