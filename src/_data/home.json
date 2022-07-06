@@ -25,9 +25,10 @@
             "imagePosition": "right",
             "content":{
                 "title": "The language of business...",
-                "text1": "Finance is the language of business and is a simple skill for non-financial managers to learn. Understanding how finance works in business is a core skill for all levels of management. Yet, there is more time wasting, misunderstandings and miscommunications around this critical area than any other business discipline.",
-                "text2": "Financial literacy is a core skill which radically improves effectiveness in all aspects of management: collaborating with others, making smart decisions, communicating with accountants and seeing the “big picture” at meetings."
-
+                "text":[
+                    "Finance is the language of business and is a simple skill for non-financial managers to learn. Understanding how finance works in business is a core skill for all levels of management. Yet, there is more time wasting, misunderstandings and miscommunications around this critical area than any other business discipline.",
+                    "Financial literacy is a core skill which radically improves effectiveness in all aspects of management: collaborating with others, making smart decisions, communicating with accountants and seeing the “big picture” at meetings."
+                ] 
             }
         },
         {
@@ -35,13 +36,15 @@
             "link": "/#summary", 
             "text": "Why Attend?", 
             "title": "Why Attend?", 
-            "type": "summary",
+            "type": "keywordtext",
             "image": "", 
             "imagePosition": "right",
             "content":{
                 "title": "Why attend one of our Finance Skills courses?",
-                "text1": "<a href=/courses>Our courses</a> remove the jargon of accountancy. We use the most learner-friendly techniques, to create an effective and enjoyable learning environment. Where necessary, we provide dedicated software applications which participants take back to their workplace. This guarantees that they can implement the learning and techniques in the “real world”.",
-                "text2": "Our flexible, active-learning programme is the quickest and most enjoyable way for non-financial managers to speak the language and use the concepts. To perform effectively, managers need a clear visibility of how their decisions effect profit and cash flow. For many, production of budgets and financial projections is also vital."
+                "text":[
+                    "<a href=/courses>Our courses</a> remove the jargon of accountancy. We use the most learner-friendly techniques, to create an effective and enjoyable learning environment. Where necessary, we provide dedicated software applications which participants take back to their workplace. This guarantees that they can implement the learning and techniques in the “real world”.",
+                    "Our flexible, active-learning programme is the quickest and most enjoyable way for non-financial managers to speak the language and use the concepts. To perform effectively, managers need a clear visibility of how their decisions effect profit and cash flow. For many, production of budgets and financial projections is also vital."
+                ]
             }
         } 
     ] 
