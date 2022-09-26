@@ -3,7 +3,8 @@
     "searchLocations": ["Dublin", "Cork", "Limerick", "Ireland"],
     "homepageTitle": "Training Courses - Dublin Cork Limerick Ireland", 
     "organisation": {
-        "name": "FinanceSkillsTraining.ie" 
+        "name": "Professional Training Solutions Ltd" ,
+        "department": "FinanceSkillsTraining.ie" 
     },
     "url": "financeskilltraining.ie",
     "logo": "",
